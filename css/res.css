@@ -1,0 +1,108 @@
+
+@media screen and (max-width: 960px) {
+	#innerWrap{
+		width:90%;
+		}
+	.hli{
+	 display: inline-block;
+	 padding-left: 0px;
+   	 padding-right: 0px;
+	}
+	.hli a {
+	
+    font-size: 11px;
+    padding: 8px;
+    text-decoration: none;}
+	
+.Mli_1 a {
+	font-size: 25px;
+    }
+
+
+.Mli a {
+	   font-size: 25px;
+   }
+	
+}
+@media screen and (max-width: 768px) {
+#innerWrap{
+		width:85%;
+		}
+#content {
+    float: left;
+    padding-top: 5px;
+    width: 101%;
+	}
+.content1{
+	width: 31%;}
+.Mli_1 a {
+	font-size: 22px;
+	padding-right: 10px;
+    }
+
+
+.Mli a {
+	   font-size: 22px;
+	   padding-left: 13px;
+    padding-right: 9px;
+   }
+#content h2 {
+      padding-top: 10px;
+}
+}
+
+@media screen and (max-width: 550px) {
+	#MainMenu {
+		padding-top:0px;}
+	body{
+		background-image:url(../img/ResBG.jpg);
+		}
+	#innerWrap{
+	width:425px;
+	}
+	
+	.Mli_1 a {
+    padding-right: 4px;
+    text-shadow: none;
+	font-size: 14px;
+	}
+	.Mli a {
+    font-size: 14px;
+    padding-left: 13px;
+    padding-right: 9px;
+    text-shadow: none;
+}
+	
+
+@media screen and (max-width: 320px) {
+		#innerWrap {
+   				 width: 260px;
+				}
+		
+		
+		.Mli_1 a {
+    	float: left;
+    	font-size: 16px;
+    	text-align: center;
+    	width: 100%;
+		}
+		.Mli_1 {
+			width: 100%;}
+		.Mli{
+			background-color: #232323;
+    		background-image: none;
+    		border-top: 1px solid #FFFFFF;
+    		float: left;
+    		font-size: 16px;
+    		text-align: center;
+   			 width: 100%;
+    		}
+		.content1 {
+ 	   			width: 29%;
+		}
+
+
+
+
+
+}
